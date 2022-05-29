@@ -36,6 +36,3 @@ child > adult :observation
 			>< felt:cold at first
 <<>>
 
-Game ML Category
-Language
-Web-Dev Trade-bot AI
